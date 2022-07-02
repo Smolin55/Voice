@@ -2,14 +2,16 @@
 <html lang="en">
  <head>
   <meta charset="UTF-8">
-  <h3>Zagolovok</h3>
+  <h2>Boris Smolin</h2>
  </head>
 <hr>
  <body style="background=color: #DF8C5D">
   <body>
-   <ul type="cirele">
-    <p> align="center">Voice</p>
-   </ul>
+    <ul type="square">
+     <p>Voice</p>
+     <p></p>
+     <p></p>
+    </ul>
   </body>
 
 
