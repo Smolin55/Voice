@@ -4,7 +4,7 @@
   <head>
     <meta charset="UTF-8">
     
-  </head><script async src="//jsfiddle.net/Smolin/pb2v5o18/5/embed/"></script>
+  </head>
   <body>
  <hr/>
   </body>
